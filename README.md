@@ -11,8 +11,8 @@ I'm web developer focused on React.
 ### Technologies
 ![React](https://img.shields.io/badge/-React-blue)
 ![Redux](https://img.shields.io/badge/-Redux-764ABD)
-![Next.js](https://img.shields.io/badge/-Gatsby-blueviolet)
-![Gatsby](https://img.shields.io/badge/-CSS-ff69b4)
+![Next.js](https://img.shields.io/badge/-Next.js-lightgrey)
+![Gatsby](https://img.shields.io/badge/-Gatsby-blueviolet)
 ![Node.js](https://img.shields.io/badge/-Node.js-success)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-blueviolet)
 ![REST API](https://img.shields.io/badge/-REST%20API-important)
