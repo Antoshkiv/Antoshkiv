@@ -2,10 +2,11 @@
 I'm web developer focused on React.
 
 ### Languages
-!<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E"  alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-TypeScript-%233078C6"  alt="TypeScript"/>
-<img src="https://img.shields.io/badge/-HTML-orange"  alt="HTML"/>
-<img src="https://img.shields.io/badge/-CSS-informational"  alt="CSS"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233078C6)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-informational)
+
 
 ### Technologies
 <img src="https://img.shields.io/badge/-React-blue"  alt="React"/>
