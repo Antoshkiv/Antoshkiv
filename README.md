@@ -2,6 +2,7 @@
 I'm web developer focused on React.
 
 ### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E)
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E"  alt="JavaScript"/>
 <img src="https://img.shields.io/badge/-TypeScript-%233078C6"  alt="TypeScript"/>
 <img src="https://img.shields.io/badge/-HTML-orange"  alt="HTML"/>
