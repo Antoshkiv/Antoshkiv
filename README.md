@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm web developer focused on React.
 
+
+<a href="https://app.daily.dev/dimaantoshkiv"><img src="https://github.com/Antoshkiv/Antoshkiv/blob/main/devcard.svg" width="400" alt="Dmytro Antoshkiv's Dev Card"/></a>
+
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233078C6)
@@ -18,7 +22,4 @@ I'm web developer focused on React.
 ![REST API](https://img.shields.io/badge/-REST%20API-important)
 ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4)
 ![styled-components](https://img.shields.io/badge/-styled--components-orange)
-
-
-<a href="https://app.daily.dev/dimaantoshkiv"><img src="https://github.com/Antoshkiv/Antoshkiv/blob/main/devcard.svg" width="400" alt="Dmytro Antoshkiv's Dev Card"/></a>
 
