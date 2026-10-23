@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="371" viewBox="0 0 860 371" role="img" aria-label="Terminal: Dima Antoshkiv, Senior Frontend Engineer, stack: React, React Native, TypeScript, Next.js, Node.js">
+<style>
+text{font-family:'SF Mono',SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace;font-size:14px;white-space:pre}
+.blink{animation:blink 1s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes p0{0%,4.545%{opacity:0}4.553%,100%{opacity:1}}
+@keyframes r0{0%,8.333%{transform:translateX(0);animation-timing-function:steps(6,end)}11.742%,100%{transform:translateX(50.7px)}}
+@keyframes c0{0%,4.545%{opacity:0}4.553%,14.394%{opacity:1}14.402%,100%{opacity:0}}
+@keyframes r1{0%,14.394%{transform:translateX(0);animation-timing-function:steps(58,end)}16.667%,100%{transform:translateX(490.1px)}}
+@keyframes c1{0%,14.394%{opacity:0}14.402%,17.576%{opacity:1}17.583%,100%{opacity:0}}
+@keyframes p3{0%,17.576%{opacity:0}17.583%,100%{opacity:1}}
+@keyframes r3{0%,21.364%{transform:translateX(0);animation-timing-function:steps(13,end)}28.750%,100%{transform:translateX(109.8px)}}
+@keyframes c3{0%,17.576%{opacity:0}17.583%,31.402%{opacity:1}31.409%,100%{opacity:0}}
+@keyframes r4{0%,31.402%{transform:translateX(0);animation-timing-function:steps(71,end)}33.674%,100%{transform:translateX(599.9px)}}
+@keyframes c4{0%,31.402%{opacity:0}31.409%,34.583%{opacity:1}34.591%,100%{opacity:0}}
+@keyframes r5{0%,34.583%{transform:translateX(0);animation-timing-function:steps(63,end)}36.856%,100%{transform:translateX(532.3px)}}
+@keyframes c5{0%,34.583%{opacity:0}34.591%,37.765%{opacity:1}37.773%,100%{opacity:0}}
+@keyframes r6{0%,37.765%{transform:translateX(0);animation-timing-function:steps(53,end)}40.038%,100%{transform:translateX(447.8px)}}
+@keyframes c6{0%,37.765%{opacity:0}37.773%,40.947%{opacity:1}40.955%,100%{opacity:0}}
+@keyframes r7{0%,40.947%{transform:translateX(0);animation-timing-function:steps(68,end)}43.220%,100%{transform:translateX(574.6px)}}
+@keyframes c7{0%,40.947%{opacity:0}40.955%,44.129%{opacity:1}44.136%,100%{opacity:0}}
+@keyframes r8{0%,44.129%{transform:translateX(0);animation-timing-function:steps(81,end)}46.402%,100%{transform:translateX(684.4px)}}
+@keyframes c8{0%,44.129%{opacity:0}44.136%,47.311%{opacity:1}47.318%,100%{opacity:0}}
+@keyframes p10{0%,47.311%{opacity:0}47.318%,100%{opacity:1}}
+@keyframes r10{0%,51.098%{transform:translateX(0);animation-timing-function:steps(28,end)}67.008%,100%{transform:translateX(236.6px)}}
+@keyframes c10{0%,47.311%{opacity:0}47.318%,100%{opacity:1}}
+.r0{animation:r0 13.2s linear infinite} .c0{opacity:0;animation:c0 13.2s linear infinite}
+.p0{opacity:0;animation:p0 13.2s linear infinite}
+.r1{animation:r1 13.2s linear infinite} .c1{opacity:0;animation:c1 13.2s linear infinite}
+.r3{animation:r3 13.2s linear infinite} .c3{opacity:0;animation:c3 13.2s linear infinite}
+.p3{opacity:0;animation:p3 13.2s linear infinite}
+.r4{animation:r4 13.2s linear infinite} .c4{opacity:0;animation:c4 13.2s linear infinite}
+.r5{animation:r5 13.2s linear infinite} .c5{opacity:0;animation:c5 13.2s linear infinite}
+.r6{animation:r6 13.2s linear infinite} .c6{opacity:0;animation:c6 13.2s linear infinite}
+.r7{animation:r7 13.2s linear infinite} .c7{opacity:0;animation:c7 13.2s linear infinite}
+.r8{animation:r8 13.2s linear infinite} .c8{opacity:0;animation:c8 13.2s linear infinite}
+.r10{animation:r10 13.2s linear infinite} .c10{opacity:0;animation:c10 13.2s linear infinite}
+.p10{opacity:0;animation:p10 13.2s linear infinite}
+</style>
+<defs>
+<filter id="sh" x="-10%" y="-15%" width="120%" height="135%"><feDropShadow dx="0" dy="8" stdDeviation="11" flood-color="#000" flood-opacity="0.45"/></filter>
+<linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3a3c"/><stop offset="1" stop-color="#2c2c2e"/></linearGradient>
+<clipPath id="win"><rect x="30" y="24" width="800" height="311" rx="11"/></clipPath>
+</defs>
+<rect x="30" y="24" width="800" height="311" rx="11" fill="#1e1e1e" filter="url(#sh)"/>
+<g clip-path="url(#win)">
+<rect x="30" y="24" width="800" height="311" fill="#1e1e1e"/>
+<rect x="30" y="24" width="800" height="30" fill="url(#tb)"/>
+<line x1="30" y1="53.5" x2="830" y2="53.5" stroke="#141414"/>
+<circle cx="46" cy="39.0" r="6" fill="#FF5F57" stroke="#E0443E" stroke-width="0.8"/>
+<circle cx="66" cy="39.0" r="6" fill="#FEBC2E" stroke="#DEA123" stroke-width="0.8"/>
+<circle cx="86" cy="39.0" r="6" fill="#28C840" stroke="#1AAB29" stroke-width="0.8"/>
+<text x="430.0" y="43.5" text-anchor="middle" fill="#a8a8ad" style="font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;white-space:normal">dima — -zsh — 80×24</text>
+<text class="p0" y="80"><tspan x="46" fill="#32d74b" font-weight="bold">dima@MacBook-Pro</tspan><tspan x="189.6" fill="#4fa3ff" font-weight="bold">~</tspan><tspan x="206.5" fill="#f2f2f2">%</tspan></text>
+<text y="80"><tspan x="223.4" fill="#f2f2f2">whoami</tspan></text>
+<g class="r0"><rect x="222.45" y="65" width="606.55" height="23" fill="#1e1e1e"/><g class="c0"><rect class="cur" x="223.45" y="67" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="103"><tspan x="46.0" fill="#f2f2f2">Dima Antoshkiv</tspan><tspan x="172.8" fill="#7a7a7a">·</tspan><tspan x="189.6" fill="#d2a8ff">Senior Frontend Engineer</tspan><tspan x="400.9" fill="#7a7a7a">·</tspan><tspan x="417.8" fill="#ffa657">Warsaw, Poland</tspan></text>
+<g class="r1"><rect x="45" y="88" width="784" height="23" fill="#1e1e1e"/><g class="c1"><rect class="cur" x="46" y="90" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text class="p3" y="149"><tspan x="46" fill="#32d74b" font-weight="bold">dima@MacBook-Pro</tspan><tspan x="189.6" fill="#4fa3ff" font-weight="bold">~</tspan><tspan x="206.5" fill="#f2f2f2">%</tspan></text>
+<text y="149"><tspan x="223.4" fill="#f2f2f2">cat stack.txt</tspan></text>
+<g class="r3"><rect x="222.45" y="134" width="606.55" height="23" fill="#1e1e1e"/><g class="c3"><rect class="cur" x="223.45" y="136" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="172"><tspan x="46.0" fill="#5ac8d8">Frontend</tspan><tspan x="130.5" fill="#7a7a7a">→</tspan><tspan x="147.4" fill="#d0d0d0">React</tspan><tspan x="198.1" fill="#7a7a7a">·</tspan><tspan x="215.0" fill="#d0d0d0">Next.js</tspan><tspan x="282.6" fill="#7a7a7a">·</tspan><tspan x="299.5" fill="#d0d0d0">TypeScript</tspan><tspan x="392.4" fill="#7a7a7a">·</tspan><tspan x="409.3" fill="#d0d0d0">JavaScript</tspan><tspan x="502.3" fill="#7a7a7a">·</tspan><tspan x="519.2" fill="#d0d0d0">Redux Toolkit</tspan><tspan x="637.5" fill="#7a7a7a">·</tspan></text>
+<g class="r4"><rect x="45" y="157" width="784" height="23" fill="#1e1e1e"/><g class="c4"><rect class="cur" x="46" y="159" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="195"><tspan x="147.4" fill="#d0d0d0">React Query</tspan><tspan x="248.8" fill="#7a7a7a">·</tspan><tspan x="265.7" fill="#d0d0d0">SWR</tspan><tspan x="299.5" fill="#7a7a7a">·</tspan><tspan x="316.4" fill="#d0d0d0">Tailwind CSS</tspan><tspan x="426.2" fill="#7a7a7a">·</tspan><tspan x="443.1" fill="#d0d0d0">shadcn/ui</tspan><tspan x="527.6" fill="#7a7a7a">·</tspan><tspan x="544.5" fill="#d0d0d0">SCSS</tspan></text>
+<g class="r5"><rect x="45" y="180" width="784" height="23" fill="#1e1e1e"/><g class="c5"><rect class="cur" x="46" y="182" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="218"><tspan x="46.0" fill="#5ac8d8">Mobile</tspan><tspan x="130.5" fill="#7a7a7a">→</tspan><tspan x="147.4" fill="#d0d0d0">React Native</tspan><tspan x="257.2" fill="#7a7a7a">·</tspan><tspan x="274.1" fill="#d0d0d0">Expo</tspan><tspan x="316.4" fill="#7a7a7a">·</tspan><tspan x="333.3" fill="#d0d0d0">EAS</tspan><tspan x="367.1" fill="#7a7a7a">·</tspan><tspan x="384.0" fill="#d0d0d0">iOS &amp; Android</tspan></text>
+<g class="r6"><rect x="45" y="203" width="784" height="23" fill="#1e1e1e"/><g class="c6"><rect class="cur" x="46" y="205" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="241"><tspan x="46.0" fill="#5ac8d8">Backend</tspan><tspan x="130.5" fill="#7a7a7a">→</tspan><tspan x="147.4" fill="#d0d0d0">Node.js</tspan><tspan x="215.0" fill="#7a7a7a">·</tspan><tspan x="231.9" fill="#d0d0d0">Hono</tspan><tspan x="274.1" fill="#7a7a7a">·</tspan><tspan x="291.0" fill="#d0d0d0">PostgreSQL</tspan><tspan x="384.0" fill="#7a7a7a">·</tspan><tspan x="400.9" fill="#d0d0d0">Prisma</tspan><tspan x="460.0" fill="#7a7a7a">·</tspan><tspan x="476.9" fill="#d0d0d0">Firebase</tspan><tspan x="553.0" fill="#7a7a7a">·</tspan><tspan x="569.9" fill="#d0d0d0">AWS S3</tspan></text>
+<g class="r7"><rect x="45" y="226" width="784" height="23" fill="#1e1e1e"/><g class="c7"><rect class="cur" x="46" y="228" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text y="264"><tspan x="46.0" fill="#5ac8d8">Tools</tspan><tspan x="130.5" fill="#7a7a7a">→</tspan><tspan x="147.4" fill="#d0d0d0">Jest</tspan><tspan x="189.6" fill="#7a7a7a">·</tspan><tspan x="206.5" fill="#d0d0d0">Vitest</tspan><tspan x="265.7" fill="#7a7a7a">·</tspan><tspan x="282.6" fill="#d0d0d0">GitHub Actions</tspan><tspan x="409.3" fill="#7a7a7a">·</tspan><tspan x="426.2" fill="#d0d0d0">GitLab CI</tspan><tspan x="510.7" fill="#7a7a7a">·</tspan><tspan x="527.6" fill="#d0d0d0">Vercel</tspan><tspan x="586.8" fill="#7a7a7a">·</tspan><tspan x="603.7" fill="#d0d0d0">Docker</tspan><tspan x="662.8" fill="#7a7a7a">·</tspan><tspan x="679.8" fill="#d0d0d0">Sentry</tspan></text>
+<g class="r8"><rect x="45" y="249" width="784" height="23" fill="#1e1e1e"/><g class="c8"><rect class="cur" x="46" y="251" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+<text class="p10" y="310"><tspan x="46" fill="#32d74b" font-weight="bold">dima@MacBook-Pro</tspan><tspan x="189.6" fill="#4fa3ff" font-weight="bold">~</tspan><tspan x="206.5" fill="#f2f2f2">%</tspan></text>
+<text y="310"><tspan x="223.4" fill="#f2f2f2">echo "Let's build something"</tspan></text>
+<g class="r10"><rect x="222.45" y="295" width="606.55" height="23" fill="#1e1e1e"/><g class="c10"><rect class="cur blink" x="223.45" y="297" width="7.8" height="17" fill="#d0d0d0"/></g></g>
+</g>
+<rect x="30.5" y="24.5" width="799" height="310" rx="10.5" fill="none" stroke="#5a5a5c" stroke-opacity="0.8"/>
+<rect x="29.5" y="23.5" width="801" height="312" rx="11.5" fill="none" stroke="#000" stroke-opacity="0.5"/>
+</svg>
